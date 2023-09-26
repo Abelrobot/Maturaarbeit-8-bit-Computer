@@ -1,0 +1,8 @@
+0) add 1		1001 0000 0001
+1) move regC,out	0001 0010 0011
+2) move regC,regA	0001 0010 0000
+3) jump to 0		0100 0000 0000
+
+In this program, 1 is continuously added to the previous number and then displayed on the output. This program requires 
+only three different opcodes and thus fewer components than the multiplication program, however many LEDs are turned on 
+when counting up to high numbers. 
