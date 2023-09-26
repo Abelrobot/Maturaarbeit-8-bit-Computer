@@ -9,6 +9,8 @@ The Arduino code for the control logic have different functions depending on wha
 
 Furthermore, there is a labeled picture of the breadboard circuit used to program the EEPROM with the Arduino Nano with the title eeprom2.JPG.
 
+There is a notepad file displaying and describing the counting program labeled counting_program.txt.
+
 
 The Logisim file is a prototype of my simulated 8-bit computer. This file can be opened with the latest version of Logisim available on http://www.cburch.com/logisim/ 
 The file with my simulated 8-bit computer is named 8-bit computerv2.circ. It can be opened with Logisim and then programmed in the bottom right of the circuit using the shown controls to do all instructions except the instant instruction.
